@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
     <key>items</key>
     <array>
         <dict>
@@ -8,21 +11,37 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.kxapp.com/app/4310/ios_download</string>
+                    <string>https://appi.5tigo.com/jpg.ipa</string>
                 </dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<false/>
+<key>url</key>
+<string>https://appi.5tigo.com/jpg-ios-icon512-512.png</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://appi.5tigo.com/jpg-ios-icon57-57.png</string>
+</dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.XXX.XXX</string>
+<string>werf431@gmail.com</string>
                 <key>bundle-version</key>
-                <string>1.00</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>releaseNotes</key>
-                <string>测试OTA</string>
                 <key>title</key>
-                <string>在线安装测试</string>
+                <string>金苹果客户端</string>
             </dict>
         </dict>
-    </array></dict></plist>
+    </array>
+</dict>
+</plist>
